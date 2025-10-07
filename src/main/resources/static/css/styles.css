@@ -1,0 +1,81 @@
+/* ======= GENERAL ======= */
+body {
+    background-color: #f8f9fa;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+}
+
+/* ======= CONTAINER ======= */
+.main-container {
+    margin-top: 40px;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ======= HEADER ======= */
+.title {
+    font-weight: bold;
+    font-size: 2.2rem;
+    color: #007bff;
+    margin-bottom: 30px;
+}
+
+/* ======= INPUT SECTION ======= */
+.input-section {
+    margin-bottom: 30px;
+}
+
+.input-section .form-group {
+    margin-right: 15px;
+}
+
+/* ======= TABLE SECTION ======= */
+.table-section {
+    padding-right: 30px;
+}
+
+.table th {
+    background-color: #007bff;
+    color: #fff;
+    text-align: center;
+}
+
+.table td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* ======= TOTAL POINTS ======= */
+.total-points {
+    font-size: 1.1em;
+    margin-top: 15px;
+}
+
+.badge {
+    font-size: 1.1em;
+    padding: 8px 12px;
+}
+
+/* ======= CANVAS SECTION ======= */
+.canvas-section {
+    border-left: 2px solid #ccc;
+    padding-left: 20px;
+}
+
+#canvas {
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    background-color: #fafafa;
+    margin-top: 15px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* ======= CURRENT BLUEPRINT ======= */
+.current-title {
+    font-weight: bold;
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 10px;
+}
